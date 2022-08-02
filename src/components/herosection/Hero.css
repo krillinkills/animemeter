@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@700&family=Square+Peg&display=swap');
+
+.hero {
+  margin-top: 0;
+}
+
+.heroHeading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #444;
+}
+
+.heroTitle {
+  position: absolute;
+  top: 20%;
+  font-size: 70px;
+  color: black;
+  font-family: 'abril fatface';
+  text-shadow: 2px 2px 30px white;
+}
+
+.heroTitleA {
+  position: absolute;
+  top: 30%;
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px 50px black;
+}
+
+.heroImg {
+  width: 100%;
+  height: 700px;
+  margin-top: 0px;
+  object-fit: cover;
+  opacity: 0.7;
+}
+
+.heroButton {
+  display: flex;
+  position: absolute;
+  top: 40%;
+  font-size: 30px;
+  align-items: center;
+}

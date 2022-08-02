@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Square+Peg&display=swap');
+
+.top {
+  width: 100%;
+  height: 70px;
+  background-color: rgb(31, 30, 30);
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  z-index: 999;
+}
+
+.topLeft {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ff4331;
+  font-size: 60px;
+  font-family: 'Dancing Script';
+}
+.topRight {
+  flex: 2;
+  display: flex;
+  align-items: right;
+  justify-content: center;
+}
+
+.topIcon {
+  font-size: 20px;
+  margin-right: 10px;
+  color: #444;
+  cursor: pointer;
+}
+
+.topCenter {
+  flex: 0;
+}
+
+.topList {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.topListItem {
+  margin-right: 30px;
+  font-size: 40px;
+  font-weight: 400;
+  cursor: pointer;
+  color: #ff4331;
+  font-family: 'square peg';
+}
+
+.topListItem:hover {
+  color: white;
+}
+
+.chat {
+  margin-left: 30px;
+  margin-right: 25px;
+}
