@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@700&family=Roboto+Condensed&family=Square+Peg&display=swap');
+.cardHead {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Roboto Condensed';
+  margin-top: -20px;
+  margin-bottom: -20px;
+  color: rgb(213, 196, 196);
+}
+
+.cardsM {
+  margin-top: 10px;
+}
