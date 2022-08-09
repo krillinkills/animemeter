@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@700&family=Square+Peg&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cinzel&family=Dancing+Script:wght@700&family=Roboto+Condensed&family=Square+Peg&display=swap');
 .hero {
   margin-top: 0;
 }
@@ -14,17 +14,17 @@
 .heroTitle {
   position: absolute;
   top: 20%;
-  font-size: 70px;
-  color: black;
-  font-family: 'abril fatface';
-  text-shadow: 2px 2px 30px white;
+  font-size: 60px;
+  color: #f5f3f4;
+  font-family: 'cinzel';
+  text-shadow: 2px 2px 20px #161a1d;
 }
 
 .heroTitleA {
   position: absolute;
   top: 30%;
   font-size: 30px;
-  color: white;
+  color: #b1a7a6;
   text-shadow: 2px 2px 50px black;
 }
 
@@ -43,4 +43,9 @@
   font-size: 30px;
   align-items: center;
   box-shadow: 2px 2px 2px;
+}
+
+.weeb {
+  font-size: 80px;
+  text-shadow: 2px 2px 20px #b1a7a6;
 }

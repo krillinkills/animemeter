@@ -16,7 +16,9 @@ function Hero() {
             Compete
           </Button>
         </div>
-        <h1 className="heroTitle">Become a Weeb</h1>
+        <h1 className="heroTitle">
+          Become a <a className="weeb">Weeb</a>
+        </h1>
         <h4 className="heroTitleA">
           Compete with other weebs and earn weeb points
         </h4>
