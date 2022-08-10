@@ -6,8 +6,7 @@ import { IconButton } from '@mui/material';
 function App() {
   return (
     <div className="App">
-      <Leaderboard />
-      <IconButton />
+      <Home />
     </div>
   );
 }
