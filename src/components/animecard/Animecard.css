@@ -1,0 +1,7 @@
+.animeCard:hover {
+  transform: scale(1.02);
+}
+
+.animeCard {
+  transition: transform 500ms;
+}

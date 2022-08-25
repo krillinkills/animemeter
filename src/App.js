@@ -7,7 +7,7 @@ import Compete from './pages/Compete';
 function App() {
   return (
     <div className="App">
-      <Compete />
+      <Home />
     </div>
   );
 }
