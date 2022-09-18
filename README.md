@@ -1,4 +1,4 @@
-![Logo](https://www.canva.com/design/DAFMkONZFWY/yVWrxyLHcw6guqf0J3kAaw/edit?utm_content=DAFMkONZFWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![App Screenshot](./public/1.JPG)
 
 # Anime meter
 
