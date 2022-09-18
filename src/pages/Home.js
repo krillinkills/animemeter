@@ -18,7 +18,6 @@ function Home() {
 
   return (
     <div>
-      core.autocrlf
       <Navbar />
       <Hero />
       <div className="cardHead">

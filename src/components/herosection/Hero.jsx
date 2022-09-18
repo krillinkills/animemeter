@@ -7,7 +7,7 @@ function Hero() {
     <div className="hero">
       <img
         className="heroImg"
-        src="https://wallpapercave.com/wp/wp7080866.jpg"
+        src="https://wallpapers-hub.art/wallpaper-images/39044.jpg"
         alt=""
       />
       <div className="heroHeading">
